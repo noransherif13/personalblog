@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width:100%;
-    background-image: url("../czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg") ;
+    background-image: url("czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg") ;
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -199,7 +199,7 @@ button:hover{
 }
 
 .service{
-    background-image: url("../czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg");
+    background-image: url("czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -314,7 +314,7 @@ footer{
     position: relative;
     width:100%;
     height: 400px;
-    background-image: url("../czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg") ;
+    background-image: url("czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOC1yb29tbGlnaHQtcG95LTAzOV8yLmpwZw.jpg") ;
     display: flex;
     flex-direction: column;
     align-items: center;
